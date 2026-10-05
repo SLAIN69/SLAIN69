@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SLAIN69/SLAIN69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+$ cat profile.sh
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+subject: Elmer Quispe Merino
+role: Técnico Informático 
+role: Backend & IoT Developer
+location: Huancayo, Perú (UTC-5)
+focus: Conmutación • Enrutamiento • Administración de Servidores
+focus: Backend • API Design • Hardware
+skills: Node.js • Express • React • SQL Server • MariaDB • C++ (Arduino)
+skills: Python • Java • Redes (Routing & Switching) • Linux • SQL
+status: Estudiante de Ingeniería de Sistemas 

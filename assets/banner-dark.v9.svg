@@ -1,146 +1,145 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3MDhiMDhjNy0xZTZlLTQwNTQtYmJjZi1kMzc4OWYwZjk0OGMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEnyuSwFJ1CdoYvh7cFq2RQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4Mzg1OWQyNy0xM2E5LTQ0ODUtODJlYi0yNmMzMjI5MzVkOTdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo0e5DQla6g6VLaOirCRhb5QAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggqdcsQyG7dzZhw35H/GmHDwx3e5LLI+YOBCMWfbhuTmWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGLGbspfwUj+8q62gT93jbQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD/frPA3jN0s9XWGmoJFHRYH6ieI5MfYm2dElXCLe0VUmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjAZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjcwOGIwOGM3LTFlNmUtNDA1NC1iYmNmLWQzNzg5ZjBmOTQ4Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNhMTZjN2Q2LTRkZDAtNGQ2ZS05Y2MzLTNhYjQ4NDAyMjI2ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCp1yxDIbt3NmHDfkf8aYcPDHd7kssj5g4EIxZ9uG5OZaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgghKZKf41BsqoB3Xwx0eFov+I19FwKSYQXGjhQVjiolOWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggzY/4bggI5+bxTUF97HLACFZzg+Gg6/+9ecEzHf8U9hB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNCwuL2eKq1TbeD1Cnm3nDaETknAoG0pJq2JUEJ/1fZYvIrEF/Utbj4TkfVtoLm17ORxhph8dVYY74/f1CAEhV8=</c2pa:manifest></metadata>
-  <title id="title">Perfil de Elmer Quispe (SLAIN69)</title>
-  <desc id="desc">Perfil animado estilo terminal con un atardecer cyber-pop y los datos de Elmer Quispe.</desc>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="100%" height="100%">
   <defs>
-    <!-- Sombra y brillo (colores azul/cyan para que combine con tu README) -->
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
-      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#1B9BD7" flood-opacity=".25"/>
-    </filter>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <!-- Recorte del panel izquierdo para que nada se salga -->
-    <clipPath id="visualClip"><rect x="49" y="124" width="390" height="414" rx="3"/></clipPath>
-    <!-- Recorte del sol: solo la mitad de arriba, abajo van las franjas -->
-    <clipPath id="sunClip"><circle cx="244" cy="290" r="90"/></clipPath>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      
+      .bg { fill: #0b1019; }
+      .window { fill: #161b22; stroke: #30363d; stroke-width: 1.5; rx: 6px; }
+      .title-bar { fill: #21262d; }
+      .text-title { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #8b949e; }
+      .text-main { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #c9d1d9; }
+      .text-green { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #56d364; }
+      .text-cyan { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #39c5cf; }
+      .text-purple { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #d2a8ff; }
+      .text-yellow { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #e3b341; }
+      .text-dim { font-family: 'JetBrains Mono', monospace; font-size: 10px; fill: #484f58; }
+      
+      .dot-red { fill: #ff5f56; }
+      .dot-yellow { fill: #ffbd2e; }
+      .dot-green { fill: #27c93f; }
+      
+      .screen-border { stroke: #30363d; stroke-width: 1; fill: #090d16; rx: 4px; }
+      
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor { animation: blink 1s infinite; }
+    </style>
   </defs>
 
-  <!-- ===== VENTANA PRINCIPAL ===== -->
-  <rect width="1180" height="610" rx="18" fill="#0B0F19"/>
-  <rect x="13" y="13" width="1154" height="584" rx="13" fill="#0F1E3A" stroke="#1B9BD7" filter="url(#shadow)"/>
-  <path d="M13 62H1167" stroke="#1B9BD7" opacity=".5"/>
+  <!-- Fondo general -->
+  <rect width="900" height="480" class="bg" />
 
-  <!-- Botones de la ventana (rojo, amarillo, azul) -->
-  <circle cx="38" cy="38" r="6" fill="#E03C31"/>
-  <circle cx="59" cy="38" r="6" fill="#FFC83D"/>
-  <circle cx="80" cy="38" r="6" fill="#1B9BD7"/>
-  <text x="590" y="43" text-anchor="middle" fill="#8FA3BF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing=".4">vim profile.yml</text>
+  <!-- Ventana de Terminal Principal -->
+  <g transform="translate(25, 20)">
+    <rect width="850" height="440" class="window" />
+    
+    <!-- Barra de título -->
+    <path d="M 0 6 A 6 6 0 0 1 6 0 L 844 0 A 6 6 0 0 1 850 6 L 850 32 L 0 32 Z" class="title-bar" />
+    <line x1="0" y1="32" x2="850" y2="32" stroke="#30363d" stroke-width="1" />
+    
+    <!-- Botones de la ventana (Estilo Mac) -->
+    <circle cx="16" cy="16" r="5" class="dot-red" />
+    <circle cx="32" cy="16" r="5" class="dot-yellow" />
+    <circle cx="48" cy="16" r="5" class="dot-green" />
+    
+    <!-- Título de la ventana -->
+    <text x="425" y="20" text-anchor="middle" class="text-title">vim profile.yml</text>
 
-  <!-- ===== PANEL IZQUIERDO: ATARDECER ===== -->
-  <rect x="35" y="88" width="418" height="472" rx="6" fill="#0B1428" stroke="#1B9BD7"/>
-  <path d="M35 124H453" stroke="#1B9BD7" opacity=".5"/>
-  <text x="49" y="111" fill="#5CF5C0" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="1.2">CYBER-POP RUNTIME</text>
-  <text x="438" y="111" text-anchor="end" fill="#8FA3BF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">SLAIN69 / ONLINE</text>
+    <!-- Contenido Interior -->
+    <g transform="translate(20, 48)">
+      
+      <!-- Panel Izquierdo: VISUAL.MAP con el Logotipo de Linux (Estilo Puntitos) -->
+      <g transform="translate(0, 0)">
+        <rect width="250" height="365" class="screen-border" />
+        <text x="12" y="20" class="text-dim">VISUAL.MAP</text>
+        <text x="175" y="20" class="text-dim">300x340 / 1-BIT</text>
+        
+        <!-- Marco interior del arte tramado -->
+        <g transform="translate(15, 30)">
+          <rect width="220" height="295" fill="#070a10" stroke="#1f242c" />
+          
+          <!-- Logotipo de Tux (Linux) simulado mediante matriz de puntos/tramado -->
+          <g fill="#ff79c6" opacity="0.9">
+            <!-- Cabeza y cuerpo central de Tux -->
+            <circle cx="110" cy="100" r="2" /><circle cx="115" cy="100" r="2" /><circle cx="105" cy="100" r="2" />
+            <circle cx="100" cy="108" r="2" /><circle cx="110" cy="108" r="2" /><circle cx="120" cy="108" r="2" />
+            <circle cx="95" cy="116" r="2" /><circle cx="102" cy="116" r="2" /><circle cx="118" cy="116" r="2" /><circle cx="125" cy="116" r="2" />
+            
+            <!-- Silueta de Pinguino / Tux tramada -->
+            <!-- Puntos decorativos imitando la textura punteada -->
+            <circle cx="110" cy="130" r="1.5" /><circle cx="100" cy="135" r="1.5" /><circle cx="120" cy="135" r="1.5" />
+            <circle cx="90" cy="145" r="1.5" /><circle cx="110" cy="145" r="1.5" /><circle cx="130" cy="145" r="1.5" />
+            <circle cx="85" cy="155" r="1.5" /><circle cx="95" cy="155" r="1.5" /><circle cx="125" cy="155" r="1.5" /><circle cx="135" cy="155" r="1.5" />
+            <circle cx="80" cy="165" r="1.5" /><circle cx="140" cy="165" r="1.5" />
+            <circle cx="75" cy="180" r="1.5" /><circle cx="145" cy="180" r="1.5" />
+            <circle cx="75" cy="195" r="1.5" /><circle cx="145" cy="195" r="1.5" />
+            <circle cx="80" cy="210" r="1.5" /><circle cx="140" cy="210" r="1.5" />
+            <!-- Base / Patas -->
+            <circle cx="90" cy="230" r="1.5" /><circle cx="100" cy="230" r="1.5" />
+            <circle cx="120" cy="230" r="1.5" /><circle cx="130" cy="230" r="1.5" />
+          </g>
+        </g>
 
-  <!-- Esquinas decorativas -->
-  <path d="M49 141h12M49 141v12M439 141h-12M439 141v12M49 539h12M49 539v-12M439 539h-12M439 539h-12v-12" fill="none" stroke="#1B9BD7" opacity=".6"/>
+        <!-- Barra inferior del visor izquierdo -->
+        <text x="12" y="350" class="text-dim">PTS 18000 · FS/SERPENTINE</text>
+      </g>
 
-  <g clip-path="url(#visualClip)">
-    <!-- Estrellas que parpadean -->
-    <g fill="#5CF5C0">
-      <circle cx="100" cy="170" r="1.5"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
-      <circle cx="380" cy="190" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
-      <circle cx="150" cy="215" r="1"><animate attributeName="opacity" values="1;.3;1" dur="4s" repeatCount="indefinite"/></circle>
-      <circle cx="330" cy="160" r="1"><animate attributeName="opacity" values=".3;1;.3" dur="3.5s" repeatCount="indefinite"/></circle>
-      <circle cx="75" cy="250" r="1"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+      <!-- Panel Derecho: Editor YAML con tus datos actualizados -->
+      <g transform="translate(265, 0)">
+        <rect width="565" height="365" fill="#090d16" stroke="#30363d" rx="3px" />
+        
+        <!-- Cabecera del buffer -->
+        <rect x="1" y="1" width="563" height="24" fill="#11161d" />
+        <text x="12" y="16" class="text-dim">profile.yml [YAML]</text>
+        <text x="500" y="16" class="text-dim">@SLAIN69</text>
+        <line x1="1" y1="24" x2="564" y2="24" stroke="#30363d" stroke-width="1" />
+
+        <!-- Números de línea y Código -->
+        <g transform="translate(12, 12)">
+          <!-- Números de línea -->
+          <g class="text-dim">
+            <text x="0" y="25">1</text><text x="0" y="42">2</text><text x="0" y="59">3</text>
+            <text x="0" y="76">4</text><text x="0" y="93">5</text><text x="0" y="110">6</text>
+            <text x="0" y="127">7</text><text x="0" y="144">8</text><text x="0" y="161">9</text>
+            <text x="0" y="178">10</text><text x="0" y="195">11</text><text x="0" y="212">12</text>
+            <text x="0" y="229">13</text><text x="0" y="246">14</text><text x="0" y="263">15</text>
+          </g>
+
+          <!-- Contenido YAML -->
+          <g transform="translate(25, 0)">
+            <text x="0" y="25" class="text-yellow">profile:</text>
+            <text x="12" y="42" class="text-green">subject: <tspan class="text-main">Elmer Quispe (SLAIN69)</tspan></text>
+            <text x="12" y="59" class="text-green">role: <tspan class="text-cyan">Técnico Informático</tspan></text>
+            <text x="12" y="76" class="text-green">origin: <tspan class="text-main">Huancayo, Perú</tspan></text>
+            <text x="12" y="93" class="text-green">mission: <tspan class="text-main">Administrar redes y desarrollar backend</tspan></text>
+            <text x="12" y="110" class="text-green">status: <tspan class="text-purple">Estudiante Ing. Sistemas · U. Continental</tspan></text>
+            <text x="12" y="127" class="text-yellow">stack:</text>
+            <text x="24" y="144" class="text-cyan">networking: <tspan class="text-main">Cisco · Linux · Windows Server</tspan></text>
+            <text x="24" y="161" class="text-cyan">databases: <tspan class="text-main">SQL Server · MySQL · MariaDB</tspan></text>
+            <text x="24" y="178" class="text-cyan">backend: <tspan class="text-main">Python · Java · Node.js</tspan></text>
+            <text x="24" y="195" class="text-cyan">hardware_iot: <tspan class="text-main">Arduino</tspan></text>
+            <text x="12" y="212" class="text-yellow">contact:</text>
+            <text x="24" y="229" class="text-purple">github: <tspan class="text-main">SLAIN69</tspan></text>
+            <text x="24" y="246" class="text-purple">timezone: <tspan class="text-main">UTC-5 · Huancayo</tspan></text>
+            
+            <!-- Cursor parpadeante -->
+            <rect x="24" y="254" width="7" height="12" fill="#56d364" class="cursor" />
+          </g>
+        </g>
+      </g>
+
     </g>
 
-    <!-- Sol -->
-    <circle cx="244" cy="290" r="90" fill="#1B9BD7" filter="url(#glow)"/>
-    <!-- Franjas oscuras sobre el sol (efecto retro) -->
-    <g clip-path="url(#sunClip)" fill="#0B1428">
-      <rect x="150" y="296" width="190" height="5"/>
-      <rect x="150" y="314" width="190" height="8"/>
-      <rect x="150" y="336" width="190" height="11"/>
-      <rect x="150" y="360" width="190" height="14"/>
+    <!-- Barra de estado inferior Vim -->
+    <g transform="translate(20, 415)">
+      <rect width="810" height="22" fill="#21262d" rx="2px" />
+      <text x="10" y="15" class="text-dim"><tspan fill="#0d1117" font-weight="bold" style="background-color:#56d364"> NORMAL </tspan></text>
+      <text x="75" y="15" class="text-main">profile.yml</text>
+      <text x="540" y="15" class="text-dim">[utf-8]</text>
+      <text x="700" y="15" class="text-dim">15L, 100% 15:1</text>
     </g>
 
-    <!-- Olas animadas: se mueven suave de lado a lado -->
-    <path d="M40 410 Q 100 380 160 410 T 280 410 T 400 410 T 520 410" fill="none" stroke="#5CF5C0" stroke-width="4" stroke-linecap="round" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0 0;-60 0;0 0" dur="6s" repeatCount="indefinite"/>
-    </path>
-    <path d="M40 435 Q 100 415 160 435 T 280 435 T 400 435 T 520 435" fill="none" stroke="#1B9BD7" stroke-width="2.5" stroke-linecap="round">
-      <animateTransform attributeName="transform" type="translate" values="-40 0;20 0;-40 0" dur="7s" repeatCount="indefinite"/>
-    </path>
   </g>
-
-  <text x="58" y="551" fill="#8FA3BF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10">status: estudiante ing. sistemas</text>
-
-  <!-- ===== PANEL DERECHO: profile.yml ===== -->
-  <rect x="474" y="88" width="672" height="472" rx="6" fill="#0B1428" stroke="#1B9BD7"/>
-  <path d="M474 124H1146" stroke="#1B9BD7" opacity=".5"/>
-  <text x="490" y="111" fill="#5CF5C0" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" letter-spacing=".5">profile.yml</text>
-  <text x="580" y="111" fill="#8FA3BF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">[YAML]</text>
-
-  <!-- Etiqueta con tu usuario -->
-  <rect x="996" y="94" width="132" height="24" rx="12" fill="#1B9BD7" opacity=".18" stroke="#1B9BD7"/>
-  <text x="1062" y="111" text-anchor="middle" fill="#1B9BD7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700">@SLAIN69</text>
-
-  <!--
-    Cada línea tiene: número (gris), clave (amarillo) y valor (blanco).
-    Para editar un dato, cambia solo el texto del segundo <tspan>.
-  -->
-  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">
-    <!-- Bloque 1: profile -->
-    <text x="506" y="148" text-anchor="end" fill="#8FA3BF" opacity=".5"> 1</text>
-    <text x="525" y="148"><tspan fill="#5CF5C0" font-weight="700">profile:</tspan></text>
-
-    <text x="506" y="169.5" text-anchor="end" fill="#8FA3BF" opacity=".5"> 2</text>
-    <text x="542" y="169.5"><tspan fill="#FFC83D">subject: </tspan><tspan fill="#EAF2FF">Elmer Quispe (SLAIN69)</tspan></text>
-
-    <text x="506" y="191" text-anchor="end" fill="#8FA3BF" opacity=".5"> 3</text>
-    <text x="542" y="191"><tspan fill="#FFC83D">role: </tspan><tspan fill="#EAF2FF">Técnico Informático</tspan></text>
-
-    <text x="506" y="212.5" text-anchor="end" fill="#8FA3BF" opacity=".5"> 4</text>
-    <text x="542" y="212.5"><tspan fill="#FFC83D">origin: </tspan><tspan fill="#EAF2FF">Huancayo, Perú</tspan></text>
-
-    <text x="506" y="234" text-anchor="end" fill="#8FA3BF" opacity=".5"> 5</text>
-    <text x="542" y="234"><tspan fill="#FFC83D">mission: </tspan><tspan fill="#EAF2FF">administrar redes y desarrollar backend</tspan></text>
-
-    <text x="506" y="255.5" text-anchor="end" fill="#8FA3BF" opacity=".5"> 6</text>
-    <text x="542" y="255.5"><tspan fill="#FFC83D">status: </tspan><tspan fill="#EAF2FF">Estudiante Ing. de Sistemas · U. Continental</tspan></text>
-
-    <!-- Bloque 2: stack -->
-    <text x="506" y="277" text-anchor="end" fill="#8FA3BF" opacity=".5"> 7</text>
-    <text x="525" y="277"><tspan fill="#5CF5C0" font-weight="700">stack:</tspan></text>
-
-    <text x="506" y="298.5" text-anchor="end" fill="#8FA3BF" opacity=".5"> 8</text>
-    <text x="542" y="298.5"><tspan fill="#FFC83D">networking: </tspan><tspan fill="#EAF2FF">Cisco · Linux · Windows Server</tspan></text>
-
-    <text x="506" y="320" text-anchor="end" fill="#8FA3BF" opacity=".5"> 9</text>
-    <text x="542" y="320"><tspan fill="#FFC83D">databases: </tspan><tspan fill="#EAF2FF">SQL Server · MySQL · MariaDB</tspan></text>
-
-    <text x="506" y="341.5" text-anchor="end" fill="#8FA3BF" opacity=".5">10</text>
-    <text x="542" y="341.5"><tspan fill="#FFC83D">backend: </tspan><tspan fill="#EAF2FF">Python · Java · Node.js</tspan></text>
-
-    <text x="506" y="363" text-anchor="end" fill="#8FA3BF" opacity=".5">11</text>
-    <text x="542" y="363"><tspan fill="#FFC83D">hardware_iot: </tspan><tspan fill="#EAF2FF">Arduino</tspan></text>
-
-    <!-- Bloque 3: contact -->
-    <text x="506" y="384.5" text-anchor="end" fill="#8FA3BF" opacity=".5">12</text>
-    <text x="525" y="384.5"><tspan fill="#5CF5C0" font-weight="700">contact:</tspan></text>
-
-    <text x="506" y="406" text-anchor="end" fill="#8FA3BF" opacity=".5">13</text>
-    <text x="542" y="406"><tspan fill="#FFC83D">github: </tspan><tspan fill="#EAF2FF">SLAIN69</tspan></text>
-
-    <text x="506" y="427.5" text-anchor="end" fill="#8FA3BF" opacity=".5">14</text>
-    <text x="542" y="427.5"><tspan fill="#FFC83D">timezone: </tspan><tspan fill="#EAF2FF">UTC-5 · Huancayo</tspan></text>
-
-    <!-- Cursor parpadeando al final, como en vim -->
-    <text x="506" y="449" text-anchor="end" fill="#8FA3BF" opacity=".5">15</text>
-  </g>
-  <rect x="542" y="438" width="8" height="15" fill="#5CF5C0">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- ===== BARRA DE ESTADO (abajo) ===== -->
-  <path d="M474 526H1146" stroke="#1B9BD7" opacity=".5"/>
-  <rect x="475" y="527" width="670" height="32" fill="#0F1E3A"/>
-  <rect x="485" y="533" width="72" height="20" rx="3" fill="#1B9BD7"/>
-  <text x="521" y="547" text-anchor="middle" fill="#0B0F19" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700">NORMAL</text>
-  <text x="569" y="547" fill="#EAF2FF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="600">profile.yml</text>
-  <text x="740" y="547" fill="#8FA3BF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">[utf-8]</text>
-  <text x="1134" y="547" text-anchor="end" fill="#8FA3BF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">15L  100%  15:1</text>
 </svg>

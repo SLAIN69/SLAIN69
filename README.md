@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=1BA0D7&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Elmer+Quispe+%E2%80%94+T%C3%A9cnico+Inform%C3%A1tico%3BRedes+%7C+Servidores+%7C+Backend%3BIoT+%E2%80%A2+Bases+de+Datos+%E2%80%A2+Hardware%3BHuancayo+-+Per%C3%BA+-+Tecnolog%C3%ADa" alt="Banner animado con perfil">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SLAIN69&style=flat&color=1BA0D7&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=SLAIN69&amp;style=flat&amp;color=1BA0D7&amp;label=profile+views" alt="profile views">
 
 </div>
 
@@ -47,7 +47,7 @@
         <sub><code>Cisco · Linux · Windows Server</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ 🗄️ databases:</code><br><br>
-        <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927?viewbox=auto" height="48" alt="SQL Server">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server">
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
         <img src="https://cdn.simpleicons.org/mariadb/003545?viewbox=auto" height="48" alt="MariaDB"><br>
         <sub><code>SQL Server · MySQL · MariaDB</code></sub>
@@ -110,11 +110,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
 <a href="https://github.com/SLAIN69">
-  <img src="https://img.shields.io/badge/GitHub-1BA0D7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-1BA0D7?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
 </a>
 
 </div>

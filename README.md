@@ -105,13 +105,42 @@
 
 ---
 
-<!-- SOCIALS -->
+## `$ cat skills-profile.yaml`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="390" alt="Áreas de formación técnica">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-light.svg" width="370" alt="Lenguajes y herramientas">
+  </picture>
+</p>
+
+<p align="center">
+  <sub><code>Egresado de Ingeniería de Sistemas · áreas de enfoque orientativas</code></sub>
+</p>
+
+---
+
 ## `$ connect --socials`
 
 <div align="center">
 
 <a href="https://github.com/SLAIN69">
   <img src="https://img.shields.io/badge/GitHub-1BA0D7?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+</a>&nbsp;
+<a href="https://www.tiktok.com/@slain_18">
+  <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok">
+</a>&nbsp;
+<a href="https://steamcommunity.com/profiles/76561198131494041/">
+  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam">
+</a>&nbsp;
+<a href="https://candidato.pe.computrabajo.com/candidate/cv/edit/">
+  <img src="https://img.shields.io/badge/Computrabajo-1BA0D7?style=for-the-badge" alt="Computrabajo">
 </a>
 
 </div>
